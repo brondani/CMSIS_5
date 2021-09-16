@@ -1,0 +1,35 @@
+#
+App=arm_variance_example Device=ARMCM0 Toolchain=AC6
+App=arm_variance_example Device=ARMCM0 Toolchain=GCC
+App=arm_variance_example Device=ARMCM4 Toolchain=AC6
+App=arm_variance_example Device=ARMCM4 Toolchain=GCC
+App=arm_variance_example Device=ARMCM7 Toolchain=AC6
+App=arm_variance_example Device=ARMCM7 Toolchain=GCC
+#
+App=arm_svm_example Device=ARMCM0 Toolchain=AC6
+App=arm_svm_example Device=ARMCM0 Toolchain=GCC
+App=arm_svm_example Device=ARMCM4 Toolchain=AC6
+App=arm_svm_example Device=ARMCM4 Toolchain=GCC
+App=arm_svm_example Device=ARMCM7 Toolchain=AC6
+App=arm_svm_example Device=ARMCM7 Toolchain=GCC
+#
+App=arm_sin_cos_example Device=ARMCM0 Toolchain=AC6
+App=arm_sin_cos_example Device=ARMCM0 Toolchain=GCC
+App=arm_sin_cos_example Device=ARMCM4 Toolchain=AC6
+App=arm_sin_cos_example Device=ARMCM4 Toolchain=GCC
+App=arm_sin_cos_example Device=ARMCM7 Toolchain=AC6
+App=arm_sin_cos_example Device=ARMCM7 Toolchain=GCC
+#
+App=arm_signal_converge_example Device=ARMCM0 Toolchain=AC6
+App=arm_signal_converge_example Device=ARMCM0 Toolchain=GCC
+App=arm_signal_converge_example Device=ARMCM4 Toolchain=AC6
+App=arm_signal_converge_example Device=ARMCM4 Toolchain=GCC
+App=arm_signal_converge_example Device=ARMCM7 Toolchain=AC6
+App=arm_signal_converge_example Device=ARMCM7 Toolchain=GCC
+#
+App=arm_matrix_example Device=ARMCM0 Toolchain=AC6
+App=arm_matrix_example Device=ARMCM0 Toolchain=GCC
+App=arm_matrix_example Device=ARMCM4 Toolchain=AC6
+App=arm_matrix_example Device=ARMCM4 Toolchain=GCC
+App=arm_matrix_example Device=ARMCM7 Toolchain=AC6
+App=arm_matrix_example Device=ARMCM7 Toolchain=GCC
